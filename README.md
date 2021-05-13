@@ -55,3 +55,7 @@
 [twitter]: https://twitter.com/_Gh0s7c_
 [youtube]: https://www.youtube.com/channel/UC26lEyktzukauPZbtvPi_EA
 [Discord]: https://discordapp.com/users/517007506082365452/
+
+<br />
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYurei&langs_count=5&theme=dark" />

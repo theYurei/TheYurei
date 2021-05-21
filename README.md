@@ -49,7 +49,7 @@
 
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://theyurei.github.io/home/
 [twitter]: https://twitter.com/_Gh0s7c_

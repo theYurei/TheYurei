@@ -57,4 +57,4 @@
 [Discord]: https://discordapp.com/users/517007506082365452/
 
 ---
-<img align="right="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYurei&langs_count=100&theme=dark" />
+<img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYurei&langs_count=100&theme=dark" />
